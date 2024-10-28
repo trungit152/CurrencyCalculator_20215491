@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">currencySwapCalculator</string>
+
+    <string-array name="currency_array">
+        <item>Vietnam - Dong</item>
+        <item>China - Yuan</item>
+        <item>United States - Dollar</item>
+        <item>Japan - Yen</item>
+        <item>United Kingdom - Pound</item>
+        <item>Korea - Won</item>
+    </string-array>
+<!--
+    <string-array name="exchange_rates">
+        <item>25390</item>
+        <item>7.13</item>
+        <item>1</item>
+        <item>153.60</item>
+        <item>0.77</item>
+        <item>1384.22</item>
+    </string-array>
+    -->
+</resources>
